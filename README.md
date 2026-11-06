@@ -10,7 +10,7 @@ One reusable text scanner. A growing vocabulary. **A human in control of every d
 
 [![Prototype](https://img.shields.io/badge/status-prototype-f0a640?style=for-the-badge)](https://github.com/Ghady04/muslim-friendly-lore-scanner)
 [![Node.js 22+](https://img.shields.io/badge/Node.js-22%2B-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/about/previous-releases)
-[![English only](https://img.shields.io/badge/language-English--only-536dfe?style=for-the-badge)](#current-scope)
+[![English only](https://img.shields.io/badge/language-English--only-536dfe?style=for-the-badge)](#-read-findings-with-context)
 [![MIT License](https://img.shields.io/badge/license-MIT-c69a35?style=for-the-badge)](LICENSE)
 
 [Quick start](#-quick-start) · [How it works](#-how-it-works) · [Limits and safety](#-limits--safety) · [Contribute](CONTRIBUTING.md)
