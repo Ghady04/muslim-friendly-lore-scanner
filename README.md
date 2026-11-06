@@ -22,7 +22,7 @@ This is the first reusable component of a longer modding initiative. It is a tex
 
 ## Quick start
 
-Install a current [Node.js](https://nodejs.org/) release (Node 20 or newer), download or clone this repository, then open PowerShell or a terminal in the repository folder.
+Install a supported [Node.js LTS](https://nodejs.org/en/about/previous-releases) release (Node 22 or newer), download or clone this repository, then open PowerShell or a terminal in the repository folder.
 
 ```powershell
 node .\scanner\index.js .\examples\sample-inventory.csv --out .\.work\sample-report

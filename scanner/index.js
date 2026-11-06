@@ -222,4 +222,4 @@ const summary = {
   output: path.relative(process.cwd(), csvPath).replaceAll('\\', '/') || path.basename(csvPath),
 };
 fs.writeFileSync(summaryPath, JSON.stringify(summary, null, 2) + '\n', 'utf8');
-console.log(JSON.stringify({ ...summary, summary_file: path.relative(process.cwd(), summaryPath).replaceAll('\\', '/') || path.basename(summaryPath) }, null, 2));\n
+console.log(JSON.stringify({ ...summary, summary_file: path.relative(process.cwd(), summaryPath).replaceAll('\\', '/') || path.basename(summaryPath) }, null, 2));
