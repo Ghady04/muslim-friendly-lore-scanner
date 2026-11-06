@@ -18,6 +18,9 @@
 /docs/*
 !/docs/ARCHITECTURE.md
 !/docs/DSR_AUDIT_STATUS.md
+!/docs/assets/
+/docs/assets/*
+!/docs/assets/lore-scanner-hero.png
 
 /tools/*
 
