@@ -1,0 +1,12 @@
+{
+  "name": "muslim-friendly-lore-scanner",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "scan:sample": "node index.js ../examples/sample-inventory.csv --out ../.work/sample-report"
+  }
+}
